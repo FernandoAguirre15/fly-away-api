@@ -1,0 +1,10 @@
+Hello John Doe,
+
+Your booking was successful! 
+
+The booking is for flight NK962 with departure date of 2026-05-02T13:00:00Z and arrival date of 2026-05-03T00:00:00Z.
+
+The booking was registered at 2026-05-07T12:39:45.071885Z.
+
+Bon Voyage!
+Fly Away Travel
